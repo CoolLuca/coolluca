@@ -1,0 +1,49 @@
+<svg fill="none" viewBox="0 0 460 90" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                div.w3-container {
+                    position: absolute;
+                    width: 100%;
+                    height: 100%;
+                    overflow: hidden;
+                    display: grid;
+                }
+
+                .bounce {
+                    scrollamount: 10;
+                    direction: right;
+                    behaviour: alternate;
+                }
+
+
+                .gradient {
+                
+                    background: linear-gradient(-45deg,#ff43e6, #ff82e4, rgb(247, 247, 18), #f59b34, #ff43e6);
+                    background-size: 300%;
+                    font-family: sans-serif, Helvetica;
+                    font-weight: bold;
+                    font-size: 3em;
+                    letter-spacing: -2px;
+                    font-weight: 750;
+                    -webkit-background-clip: text;
+                    -webkit-text-fill-color: transparent;
+                    animation: animated_text 4s ease-in-out infinite;
+                    -moz-animation: animated_text 4s ease-in-out infinite;
+                    -webkit-animation: animated_text 4s ease-in-out infinite;
+                }
+
+                @keyframes animated_text {
+                    0% { background-position: 0px 50%; }
+                    50% { background-position: 100% 50%; }
+                    100% { background-position: 0px 50%; }
+                }
+            </style>
+            <div class = 'w3-container'>
+                <marquee class = "bounce">
+                    <div class = "gradient">Luca's Epic Github</div>
+                </marquee>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
