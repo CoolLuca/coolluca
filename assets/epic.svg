@@ -16,7 +16,7 @@
                     background-size: 300%;
                     font-family: sans-serif, Helvetica;
                     font-weight: bold;
-                    font-size: 3em;
+                    font-size: 2.5em;
                     letter-spacing: -2px;
                     font-weight: 750;
                     -webkit-background-clip: text;
@@ -33,7 +33,7 @@
                 }
             </style>
             <div class = 'container'>
-                <marquee scrollamount="10" direction="left" behavior="alternate">
+                <marquee scrollamount="7" direction="left" behavior="alternate">
                     <div class = "gradient">Luca's Epic Github</div>
                 </marquee>
             </div>
