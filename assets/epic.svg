@@ -10,13 +10,6 @@
                     display: grid;
                 }
 
-                .bounce {
-                    scrollamount: 10;
-                    direction: right;
-                    behaviour: alternate;
-                }
-
-
                 .gradient {
                 
                     background: linear-gradient(-45deg,#ff43e6, #ff82e4, rgb(247, 247, 18), #f59b34, #ff43e6);
@@ -40,7 +33,7 @@
                 }
             </style>
             <div class = 'container'>
-                <marquee class = "bounce">
+                <marquee scrollamount="10" direction="left" behavior="alternate">
                     <div class = "gradient">Luca's Epic Github</div>
                 </marquee>
             </div>
