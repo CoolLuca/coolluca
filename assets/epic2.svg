@@ -9,16 +9,10 @@
                         -webkit-transform: translateX(-100%);
                     }
 
-                    50% {
-                        transform: translateX(25%);
-                        -moz-transform: translateX(25%);
-                        -webkit-transform: translateX(25%);
-                    }
-
                     100% {
-                        transform: translateX(100%);
-                        -moz-transform: translateX(100%);
-                        -webkit-transform: translateX(100%);
+                        transform: translateX(150%);
+                        -moz-transform: translateX(150%);
+                        -webkit-transform: translateX(150%);
                     }
                 }
 
