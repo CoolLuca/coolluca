@@ -4,9 +4,9 @@
             <style>
                 @keyframes text-scroll-right {
                     0% {
-                        transform: translateX(-100%);
-                        -moz-transform: translateX(-100%);
-                        -webkit-transform: translateX(-100%);
+                        transform: translateX(-115%);
+                        -moz-transform: translateX(-115%);
+                        -webkit-transform: translateX(-115%);
                     }
 
                     50% {
@@ -16,9 +16,9 @@
                     }
 
                     100% {
-                        transform: translateX(-100%);
-                        -moz-transform: translateX(-100%);
-                        -webkit-transform: translateX(-100%);
+                        transform: translateX(-115%);
+                        -moz-transform: translateX(-115%);
+                        -webkit-transform: translateX(-115%);
                     }
                 }
 
