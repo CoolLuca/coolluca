@@ -1,4 +1,5 @@
 ### CoolLuca 
+Currently Studying a Bachelor of Computer Science (Advanced) at the University of Adelaide
 
 ![CoolImage](assets/CoolLuca.svg)
 <!---
@@ -7,3 +8,4 @@
 ![CoolImage](assets/epic2.svg)
 
 ### Github
+
