@@ -6,5 +6,5 @@
 -->
 ![CoolImage](assets/epic2.svg)
 
-### :computer: Currently Studying a Bachelor of Computer Science (Advanced) at the University of Adelaide
+### :fire: Currently Studying a Bachelor of Computer Science (Advanced) at the University of Adelaide
 
