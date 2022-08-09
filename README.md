@@ -6,6 +6,5 @@
 -->
 ![CoolImage](assets/epic2.svg)
 
-### Github
-:computer: Currently Studying a Bachelor of Computer Science (Advanced) at the University of Adelaide
+### :computer: Currently Studying a Bachelor of Computer Science (Advanced) at the University of Adelaide
 
