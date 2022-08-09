@@ -1,5 +1,4 @@
 ### CoolLuca 
-Currently Studying a Bachelor of Computer Science (Advanced) at the University of Adelaide
 
 ![CoolImage](assets/CoolLuca.svg)
 <!---
@@ -8,4 +7,5 @@ Currently Studying a Bachelor of Computer Science (Advanced) at the University o
 ![CoolImage](assets/epic2.svg)
 
 ### Github
+:computer: Currently Studying a Bachelor of Computer Science (Advanced) at the University of Adelaide
 
